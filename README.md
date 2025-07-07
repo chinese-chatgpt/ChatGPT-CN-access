@@ -1,11 +1,11 @@
 # ChatGPT中文版：国内免费直连指南（内附链接）【7月最新更新】
 
-> **更新时间：2025/07/02**     
+> **更新时间：2025/07/08**     
 
 本文提供完整的 **ChatGPT 中文版**使用指南，推荐国内可用的 **ChatGPT 镜像网站**，支持 GPT-4、GPT-4o，永久免费，无需翻墙，适合中文用户。  
 本项目为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
-**ChatGPT 中文版**入口：**[chat.lanjing.pro](https://chat.lanjing.pro)**  
+**ChatGPT 中文版**入口：**[gpt.lanjing.pro](https://gpt.lanjing.pro)**  
 **ChatGPT 镜像网站**入口：**[xsimplechat.com](https://xsimplechat.com)**
 
 ---
@@ -23,7 +23,7 @@
 
 ## 什么是 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://chat.lanjing.pro) 是 OpenAI 开发的 ChatGPT 模型的中文专业版本，专为中文用户提供更流畅、更精准的对话体验。  
+[**ChatGPT 中文版**](https://gpt.lanjing.pro) 是 OpenAI 开发的 ChatGPT 模型的中文专业版本，专为中文用户提供更流畅、更精准的对话体验。  
 与官方 ChatGPT 相比，中文版在以下方面更适合国内用户： 
 
 - **中文交互**：更流畅的中文对话能力，适合学习、办公和日常使用。
@@ -38,7 +38,7 @@
 
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
-| [chat.lanjing.pro](https://chat.lanjing.pro)   | GPT-4, GPT-3.5，deepseek-r1 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 4o 绘图，适合开发者与普通用户 |
+| [gpt.lanjing.pro](https://gpt.lanjing.pro)   | GPT-4, GPT-3.5，deepseek-r1 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 4o 绘图，适合开发者与普通用户 |
 | [xsimplechat.com](https://xsimplechat.com)     | GPT-4, GPT-o1, Claude, deepseek-r1  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
 | [chat.yixiaai.com](https://chat.yixiaai.com)  | GPT-4, GPT-3.5 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐     | 稳定使用，提供稳定服务                 |
 | [yixiaai.cn](https://yixiaai.cn)   | GPT-3.5        | 有              | 国内邮箱支持        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
@@ -63,7 +63,7 @@
 ## 如何快速开始使用 ChatGPT 中文版
 
 ### **方法一：通过镜像网站快速体验**
-1. **选择镜像站点**：访问推荐的镜像站点（如 [chat.lanjing.pro](https://chat.lanjing.pro)）。
+1. **选择镜像站点**：访问推荐的镜像站点（如 [gpt.lanjing.pro](https://gpt.lanjing.pro)）。
 2. **注册或直接使用**：
    - 邮箱注册：填写邮箱和密码，完成账号创建。
    - 免注册：直接进入聊天界面，输入问题即可获得回答。
